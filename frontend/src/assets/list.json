@@ -1,0 +1,114 @@
+[
+    {
+        "id" : 1,
+        "name" : "Dark Academia",
+        "title":"The Secret History",
+        "price":0,
+        "category":"Free",
+        "image": "https://m.media-amazon.com/images/I/81YhQfeiynL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Historical Fiction",
+        "title":"The Seven Husbands of Evelyn Hugo",
+        "price":"$20",
+        "category":"Free",
+        "image": "https://m.media-amazon.com/images/I/71KcUgYanhL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Fiction Book",
+        "title":"I'll give you the sun",
+        "price":"$25",
+        "category":"Free",
+        "image": "https://m.media-amazon.com/images/I/81GuArQLL8L.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Historical Fiction",
+        "title":"Malibu Rising",
+        "price":0,
+        "category":"Free",
+        "image": "https://m.media-amazon.com/images/I/81vtfglyzsL.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Fiction Book",
+        "title":"The Kite Runner",
+        "price":0,
+        "category":"Free",
+        "image": "https://m.media-amazon.com/images/I/81IzbD2IiIL.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Fiction Book",
+        "title":"A thousand splendid suns",
+        "price":0,
+        "category":"Free",
+        "image": "https://m.media-amazon.com/images/I/81xIPfJ6iUL.jpg"
+    },
+    {
+        "id" : 7,
+        "name" : "Fiction-Thriller",
+        "title":"And then there were none",
+        "price":25,
+        "category":"Paid",
+        "image": "https://m.media-amazon.com/images/I/81nChcVy7CL._AC_UF1000,1000_QL80_.jpg"
+    },{
+        "id" : 8,
+        "name" : "Historical Fiction",
+        "title":"Daisy Jones and the six",
+        "price":45,
+        "category":"Paid",
+        "image": "https://m.media-amazon.com/images/I/81cxxjQd57L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id" : 9,
+        "name" : "Fiction-Young Adult",
+        "title":"Turtles All The Way Down",
+        "price":45,
+        "category":"Paid",
+        "image": "https://m.media-amazon.com/images/I/81WjXknkN4L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id" : 10,
+        "name" : "Non-Fiction, Biography",
+        "title":"Becoming",
+        "price":40,
+        "category":"Paid",
+        "image": "https://m.media-amazon.com/images/I/81KGjsBXQ7L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id" : 11,
+        "name" : "Fiction - Fantasy",
+        "title":"Harry Potter and the Philosophers Stone",
+        "price":"$35",
+        "category":"Paid",
+        "image": "https://m.media-amazon.com/images/I/81q77Q39nEL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id" : 12,
+        "name" : "Fiction - Fantasy",
+        "title":"Percy Jackson and the Lightening Theif",
+        "price":"$33",
+        "category":"Paid",
+        "image": "https://m.media-amazon.com/images/I/91WN6a6F3RL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id" : 13,
+        "name" : "Fiction, Thriller",
+        "title":"Silent Patient",
+        "price":28,
+        "category":"Paid",
+        "image": "https://m.media-amazon.com/images/I/91lslnZ-btL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id" : 13,
+        "name" : "Fiction, Romance",
+        "title":"Love & Gelato",
+        "price":45,
+        "category":"Paid",
+        "image": "https://m.media-amazon.com/images/I/81DAXxpOLtL._AC_UF1000,1000_QL80_.jpg"
+    }
+    
+]
